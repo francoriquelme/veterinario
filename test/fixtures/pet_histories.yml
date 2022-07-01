@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  pets_id: 1
+  weigth: 1.5
+  height: 1.5
+  description: MyText
+  Pet: one
+
+two:
+  pets_id: 1
+  weigth: 1.5
+  height: 1.5
+  description: MyText
+  Pet: two
